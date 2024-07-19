@@ -1,0 +1,1050 @@
+@media only screen and (max-width: 1799px) {}
+
+@media only screen and (max-width: 1599px) {
+    section {
+        padding: 40px 0;
+    }
+
+    .announcement-bar {
+        padding: 0 4vw;
+    }
+
+    .announcement-bar.section-announcement-bar-block .announcement_bar_block_wapper {
+        font-size: 22px;
+    }
+
+    .banenr-section-top-highlight h1 {
+        font-size: 2.8rem;
+        line-height: 1.05;
+    }
+
+    .banner-discription-main {
+        font-size: 1.4rem;
+    }
+
+    .section_main_title_wa h3 {
+        font-size: 34px;
+        line-height: 1.25;
+        margin-bottom: 25px;
+    }
+
+    .landing_page_video_sec_video_title {
+        margin-top: 39px;
+    }
+
+    .landing_page_video_sec_time_wapper {
+        margin-top: 37px;
+        row-gap: 29px;
+    }
+
+    .video_banner_cart_deatils_wapper {
+        margin-top: 40px;
+    }
+
+    
+
+    .landing_page_video_sec_time_col_title h4 {
+        font-size: 22px;
+    }
+
+  
+
+    .iamge_icon_main {
+        width: 25%;
+        padding: 12px;
+    }
+
+    .gallery_image_col {
+
+        padding: 0 12px;
+    }
+
+    .gallery_image_col_img {
+        margin-bottom: 24px;
+    }
+
+    .our_gallery_section_wapper .gallery_image_col:nth-child(odd) {
+        margin-top: 24px;
+    }
+
+    .course_card_info_wapper_dis {
+        padding: 15px;
+    }
+
+    .course_card_info_wapper_dis h4 {
+        font-size: 16px;
+    }
+
+    .course_card_info_wapper {
+        padding: 14px;
+    }
+}
+
+@media only screen and (max-width: 1439px) {}
+
+@media only screen and (max-width: 1365px) {
+    .announcement-bar.section-announcement-bar-block .announcement_bar_block_wapper {
+        font-size: 18px;
+    }
+
+    .li_slide-creator-detail {
+        padding: 20px 30px;
+    }
+
+    .li_slide-creator-wrap {
+        margin-right: 40px;
+    }
+
+    .banenr-section-top-highlight h1 {
+        font-size: 2.6rem;
+        line-height: 1;
+    }
+
+    .brand_logo {
+        margin-bottom: 25px;
+    }
+
+    
+
+    .landing_page_video_sec_video_title {
+        margin-top: 29px;
+    }
+
+    .landing_page_video_sec_time_wapper {
+        margin-top: 27px;
+        row-gap: 19px;
+    }
+
+    .landing_page_video_sec_time_col_inner {
+        max-width: 93%;
+        gap: 27px;
+        padding: 30px 30px;
+    }
+
+    .landing_page_video_sec_time_col_title h4 {
+        font-size: 20px;
+    }
+
+    .video_banner_cart_deatils_wapper {
+        margin-top: 30px;
+    }
+
+    .li_price {
+        font-size: 36px;
+    }
+
+    span.stike-li.small-li {
+        font-size: 1.15rem;
+    }
+
+    .li_offertext {
+        font-size: 1.15rem;
+    }
+
+    .li_time.register-on {
+        font-size: 1.15rem;
+    }
+
+    .enquiry_button_main .gmwqp_inquirybtn_loop a.button.gmwqp_inq {
+        font-size: 18px;
+    }
+
+    .gmwqp_inquirybtn_loop .available_seat_message span {
+        margin-top: 5px;
+    }
+
+    .banner-discription-main {
+        font-size: 1.2rem;
+    }
+
+    .course_card_info_wapper_dis {
+        padding: 10px 15px;
+    }
+}
+
+@media only screen and (max-width: 1279px) {
+    footer.footer {
+        padding: 70px 0;
+        background: black;
+    }
+    .product_card_wapper_main {
+        width: 33.33%;
+        padding: 15px;
+    }
+    .product_card_wapper_title h4 {
+        font-size: 26px;
+    }
+    .product_card_wapper_discripton {
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 1.42;
+    }
+    .product_card_wapper_price {
+        font-size: 20px;
+    }
+    .bottam_cart_wapper_main_inner {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .banenr-section-top-highlight h1 {
+        font-size: 2.3rem;
+    }
+    .image_icon_inner img {
+        height: 37px;
+        object-fit: contain;
+    }
+    .li_days-wrap {
+        grid-row-gap: 10px;
+    }
+    .announcement-bar.section-announcement-bar-block .announcement_bar_block_wapper {
+        font-size: 20px;
+    }
+    .li_lit-detail {
+        padding: 0;
+        display: flex;
+    }
+    .announcement-bar-wrapper {
+        padding: 12px 0;
+        background: linear-gradient(90deg, #F09400 0%, #FC5B00 94.87%);
+    }
+    .li_creator-imae {
+        max-width: 33%;
+    }
+    .li_price {
+        font-size: 32px;
+    }
+    .price_bundler_sec_title {
+        margin-bottom: 70px;
+    }
+    .price_bundler_wapper_list_wapper {
+        gap: 10px;
+    }
+    .landing_page_video_sec_time_wapper {
+        max-width: 100%;
+    }
+    .certificate_sec_meta {
+        max-width: 90%;
+        color: white;
+    }
+    .dit_certificate_left {
+        width: 66%;
+    }
+    .dit_certificate_right {
+        width: 40%;
+    }
+    .certificate_sec_meta {
+        max-width: 90%;
+        color: white;
+        line-height: 29px;
+    }
+    .enquiry_button_main .gmwqp_inquirybtn_loop a.button.gmwqp_inq {
+        font-size: 18px;
+        padding: 15px;
+    }
+
+ 
+
+    .landing_page_video_sec_video_title {
+        margin-top: 19px;
+    }
+
+    .brand_logo {
+        margin-bottom: 20px;
+    }
+
+
+    .iamge_icon_main {
+        padding: 18px;
+        width: 33.33%;
+    }
+
+    .image_icon_wapper {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .gallery_image_col {
+
+        padding: 0 7px;
+    }
+
+    .our_gallery_section_wapper .gallery_image_col:nth-child(odd) {
+        margin-top: 14px;
+    }
+
+    .gallery_image_col_img {
+        margin-bottom: 14px;
+    }
+
+    .course_card_info_wapper {
+        padding: 8px;
+    }
+
+    .course_card_info_wapper_dis h4 {
+        font-size: 14px;
+    }
+
+    .price_bundler_wapper_inner {
+        padding: 100px 40px 60px 40px;
+        background: black;
+        border-radius: 50px;
+        position: relative;
+    }
+}
+
+@media only screen and (max-width: 1023px) {
+  
+
+    .banenr-section-top-highlight h1 {
+        font-size: 2.1rem;
+    }
+
+    .banner-discription-main {
+
+        line-height: 30px;
+
+    }
+
+    .landing_page_video_sec_time_col_title h4 {
+        font-size: 16px;
+    }
+
+  
+
+    .enquiry_button_main .gmwqp_inquirybtn_loop a.button.gmwqp_inq {
+        font-size: 18px;
+        padding: 15px 0;
+    }
+
+    .li_price {
+        font-size: 30px;
+    }
+
+    span.stike-li.small-li {
+        font-size: 1rem;
+    }
+
+    .li_offertext {
+        font-size: 1rem;
+    }
+
+    .li_time.register-on {
+        font-size: 1rem;
+    }
+
+    .gmwqp_inquirybtn_loop .available_seat_message span {
+        margin-top: 3px;
+        font-size: 14px;
+    }
+
+    .landing_page_video_sec_time_wapper {
+        row-gap: 25px;
+    }
+
+    .banner_section_wapper {
+        flex-wrap: wrap;
+    }
+
+    .banner_sec_left {
+        width: 100%;
+    }
+
+    .banner_sec_right {
+        width: 100%;
+    }
+
+    .gmwqp_inquirybtn_loop {
+        margin-top: 0;
+        max-width: 100%;
+    }
+
+    .course_card_info_flex {
+        flex-wrap: wrap;
+    }
+
+    .course_card_info_wapper {
+        width: 33.33%;
+    }
+}
+
+@media(max-width:991px) {
+    .pop-up-main-wapper-inner {
+        max-width: 90%;
+        margin: 0 auto;
+    }
+    .pop-up-main-wapper-meta-title h2 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .pop-up-main-wapper-right {
+        padding: 30px;
+    }
+    .pop-up-main-wapper-meta .enquiry_button_main .gmwqp_inquirybtn_loop a.button.gmwqp_inq {
+        font-size: 18px;
+        padding: 12px 0;
+    }
+    .pop-up-main-wapper-meta .gmwqp_inquirybtn_loop {
+        margin-top: 25px;
+    }
+    .pop-up-main-wapper-meta #countdown_pop_up ul li span {
+        font-size: 35px;
+    }
+    .pop-up-main-wapper-meta #countdown_pop_up ul li span {
+        height: 67px;
+    }
+    .pop-up-main-wapper-meta #countdown_pop_up ul li p.countdown_pop_ver {
+        font-size: 12px;
+    }
+    .bottam_cart_wapper_flex_center {
+        width: 20%;
+        display: none;
+    }
+    
+    .product_card_wapper_inner {
+        border-radius: 30px;
+        padding: 30px 20px;
+    }
+    .bottam_cart_wapper_flex {
+        display: flex;
+        width: auto;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .bottam_cart_wapper_flex_right {
+        width: 55%;
+    }
+    .bottam_cart_wapper_main_inner .enquiry_button_main .gmwqp_inquirybtn_loop a.button.gmwqp_inq {
+        font-size: 15px;
+        padding: 14px 0;
+    }
+    .bottam_cart_wapper_main_inner .gmwqp_inquirybtn_loop .available_seat_message span {
+        margin-top: 3px;
+        font-size: 13px;
+    }
+    .li_sticky-wrap {
+        display: flex;
+        width: auto;
+        flex-wrap: wrap;
+    }
+    .li_slide-creator-wrap {
+        margin-right: 30px;
+    }
+    .li_slide-cretaor-block {
+        padding: 25px;
+    }
+    .customer_review_main {
+        max-width: 26%;
+        margin-top: 20px;
+    }
+    .li_text-large {
+        color: white;
+        font-size: 16px;
+        line-height: 32px;
+    }
+    .section_main_title_wa h3 {
+        font-size: 30px;
+        line-height: 1.25;
+        margin-bottom: 25px;
+    }
+    .li_sticky-heading {
+        position: inherit;
+    }
+
+    .price_bundler_wapper_price_main {
+        padding: 12px 36px;
+        border-top-left-radius: 40px;
+        border-bottom-right-radius: 40px;
+    }
+
+    .price_bundler_wapper_list_wapper {
+        display: flex;
+        width: auto;
+        gap: 20px;
+        width: 50%;
+        justify-content: center;
+    }
+
+    .price_bundler_wapper_list_of_view {
+        display: flex;
+        width: auto;
+        flex-wrap: wrap;
+        row-gap: 33px;
+    }
+
+    .follow_on_soc_wapper_inner {
+        padding: 40px;
+    }
+
+    .about_of_dit_left_side {
+        width: 100%;
+        margin-right: 40px;
+    }
+
+    .about_of_dit_right_side {
+        width: 30%;
+        display: none;
+    }
+
+    .follow_on_soc_wapper_disc {
+        font-size: 18px;
+    }
+
+    .dit_certificate_fle {
+        display: flex;
+        width: auto;
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+    }
+
+    .dit_certificate_left {
+        width: 100%;
+        margin-top: 35px;
+    }
+
+    .dit_certificate_right {
+        width: 100%;
+    }
+
+    .certificate_sec_meta {
+        max-width: 100%;
+        color: white;
+    }
+    .last_waspper {
+        padding: 50px;
+    }
+}
+@media(max-width:819px){
+    .footer_flex {
+        display: flex;
+        width: auto;
+        flex-wrap: wrap;
+    }
+    .footer_left_wapper {
+        width: 100%;
+    }
+    .footer_right_wapper {
+        width: 100%;
+        align-items: flex-start;
+        margin-top: 50px;
+    }
+    .footer_contact_wapper {
+        justify-content: flex-start;
+    }
+    .banenr-section-top-highlight {
+        margin-bottom: 30px;
+    }
+    .product_card_wapper_main {
+        width: 50%;
+        padding: 15px;
+    }
+    .product_card__flex_inner {
+        justify-content: center;
+    }
+    .landing_page_video_sec_time_col_icon svg {
+        fill: #f86e00;
+        height: 40px;
+        width: 40px;
+    }
+    .landing_page_video_sec_time_col_title h4 {
+        font-size: 18px;
+    }
+    .image_icon_inner img {
+        height: 33px;
+        object-fit: contain;
+    }
+    .iamge_icon_main {
+        padding: 12px;
+        width: 33.33%;
+    }
+    .text-block-647 {
+        font-size: 33px;
+    }
+    .certificate_sec_title {
+        margin-bottom: 0px;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .pop-up-main-wapper-left {
+        width: 50%;
+        display: none;
+    }
+    .announcement-bar.section-announcement-bar-block .announcement_bar_block_wapper {
+        font-size: 18px;
+    }
+    .pop_up_logo {
+        display: block;
+        margin-bottom: 23px;
+    }
+    .pop-up-main-wapper-meta-title h2 {
+        font-size: 22px;
+        line-height: 30px;
+        font-weight: bold;
+        text-align: center;
+    }
+    .pop-up-main-wapper-right {
+        width: 70%;
+        padding: 20px;
+        text-align: center;
+    }
+    .pop_up_logo .brand_logo {
+        max-width: 80%;
+        margin: 0 auto;
+    }
+    .pop-up-main-wapper-flex {
+        justify-content: center;
+    }
+    .follow_on_soc_wapper_button a {
+        max-width: 100%;
+    }
+    .bottam_cart_wapper_flex_left {
+        width: 38%;
+    }
+    .banner-sec-right-title h2 {
+        font-family: "Roboto", sans-serif;
+        color: white;
+        font-size: 28px;
+    }
+    .li_slide-creator-wrap {
+        margin-right: 0;
+        padding: 0 10px;
+    }
+    .course_card_info_wapper_dis {
+        padding: 15px 15px;
+    }
+    .course_card_info_wapper_dis h4 {
+        font-size: 16px;
+    }
+    .video_review_wapper_main {
+        width: 30%;
+        margin-right: 0;
+        padding: 10px 0;
+    }
+    .li_text-large {
+        color: white;
+        font-size: 17px;
+        line-height: 32px;
+    }
+    h2.li_heading-h2.li-align-left {
+        font-size: 35px;
+        margin-bottom: 30px;
+    }
+    .price_bundler_wapper_list_wapper {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .price_bundler_wapper_inner {
+        padding: 70px 40px 49px 40px;
+    }
+
+    .about_of_dit_left_side_dis_wpp h5 {
+        font-size: 1.3rem;
+        line-height: 1.27;
+    }
+
+    .about_of_dit_flex {
+        display: flex;
+        width: auto;
+        padding: 40px;
+        border-radius: 40px;
+        background: black;
+        box-shadow: 0px 2px 21px 1px #4b301c;
+    }
+
+    .banenr-section-top-highlight h1 {
+        font-size: 1.7rem;
+        line-height: 41px;
+    }
+
+   
+
+    .landing_page_video_sec_time_wapper {
+        flex-wrap: wrap;
+    }
+
+    .landing_page_video_sec_time_col_main {
+        width: 100%;
+    }
+
+    .landing_page_video_sec_time_col_inner {
+        padding: 35px 35px;
+        gap: 20px;
+        max-width: 100%;
+        border-radius: 20px;
+    }
+    .landing_page_video_sec_time_col_title h4 {
+        font-size: 22px;
+    }
+  
+
+    span.stike-li.small-li {
+        font-size: 1rem;
+    }
+
+    .li_time.register-on {
+        font-size: 0.8rem;
+    }
+
+    .li_offertext {
+        font-size: 0.8rem;
+    }
+
+    .video_banner_cart_deatils_wapper {
+        flex-wrap: wrap;
+    }
+
+    .video_banner_cart_deatils_wapper .acg_persistant-price {
+        width: 100%;
+    }
+
+    .video_banner_cart_deatils_wapper .enquiry_button_main {
+        width: 100%;
+    }
+
+    .landing_page_video_sec_time_wapper {
+        margin-top: 17px;
+    }
+
+   
+
+   
+    .course_card_info_wapper {
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width: 639px) {
+    .brand_logo {
+        max-width: 30%;
+    }
+
+    .iamge_icon_main {
+        width: 50%;
+    }
+
+    .banner-sec-right-list ul li {
+        margin-bottom: 20px;
+        line-height: 30px;
+    }
+    .banner-sec-right-list ul li {
+        padding: 0 0 0 40px;
+    }
+    .banner-sec-right-list ul li:before {
+        width: 30px;
+        height: 30px;
+    }
+
+    .enquiry_button_main {
+        margin-top: 12px;
+    }
+    .last_waspper {
+        padding: 61px;
+    }
+}
+
+@media only screen and (max-width: 574px) {
+    .container {
+        max-width: 1366px;
+        padding: 0 20px;
+        margin: 0 auto;
+    }
+    .video_review_slider_main .slick-list.draggable{
+        margin: 0 ;
+    }
+    .about_of_dit_left_side_dis_wpp {
+        margin-top: 20px;
+    }
+    .product_card_wapper_inner:hover .product_card_wapper_image img {
+        transform: none;
+    }
+    .bottam_cart_wapper_flex_left {
+        width: 38%;
+        display: none;
+    }
+    .fooer_discriptions {
+        color: white;
+        max-width: 100%;
+    }
+    .footer_logo {
+        max-width: 60%;
+    }
+    
+    .banner-sec-right-list ul li {
+        line-height: 27px;
+        font-size: 14px;
+    }
+    .bottam_cart_wapper_flex_right {
+        width: 100%;
+    }
+    .product_card_wapper_main {
+        width: 100%;
+        padding: 0px;
+        padding-bottom: 30px;
+    }
+    .product_card_flex {
+        margin-top: 0;
+    }
+    .price_bundler_wapper_inner {
+        border-radius: 30px;
+    }
+    .product_card_wapper_title h4 {
+        font-size: 29px;
+    }
+    .product_card_wapper_price {
+        font-size: 24px;
+    }
+    .about_of_dit_left_side_gallery_sider .about_of_dit_left_side_gallery_sider_img {
+        width: 33.33%;
+        margin-right: 00px;
+        padding: 0 10px;
+        
+    }
+   
+    .enquiry_button_main .gmwqp_inquirybtn_loop a.button.gmwqp_inq {
+        font-size: 17px;
+        padding: 14px 0;
+    }
+    section {
+        padding: 25px 0;
+    }
+    .banner_section_wapper {
+        padding: 12px 0;
+    }
+    .banner-discription-main {
+        font-size: 1rem;
+    }
+    .banner-sec-right-title h2 {
+        font-size: 24px;
+    }
+    h2.li_heading-h2.li-align-left {
+        font-size: 32px;
+        margin-bottom: 30px;
+    }
+    .li_sticky-wrap {
+        grid-column-gap: 70px;
+        grid-row-gap: 78px;
+    }
+    .text-block-647 {
+        font-size: 30px;
+    }
+    .li_slide-cretaor-block {
+        padding: 23px;
+    }
+    .li_text-large {
+        color: white;
+        font-size: 16px;
+        line-height: 32px;
+    }
+    .customer_review_main {
+        max-width: 30%;
+        margin-top: 20px;
+    }
+    .li_creator-imae {
+        max-width: 35%;
+    }
+    .price_bundler_wapper_price_main {
+        padding: 12px 12px;
+        border-top-left-radius: 40px;
+        border-bottom-right-radius: 40px;
+    }
+    .li_price {
+        font-size: 25px;
+    }
+    .price_bundler_wapper_inner {
+        padding: 62px 26px 40px 26px;
+    }
+    .banner-sec-right-dis {
+        font-size: 19px;
+        line-height: 30px;
+    }
+    .banenr-section-top-highlight {
+        margin-bottom: 8px;
+    }
+    .section_main_title_wa h3 {
+        font-size: 26px;
+        line-height: 1.40;
+        margin-bottom: 20px;
+    }
+    .landing_page_video_sec_time_col_inner {
+        padding: 30px 35px;
+        gap: 20px;
+        max-width: 100%;
+        border-radius: 20px;
+    }
+    .landing_page_video_sec_time_col_title h4 {
+        font-size: 20px;
+    }
+
+    .video_review_wapper_main {
+        width: 30%;
+        margin-right: 0;
+    }
+
+    .accordion button .accordion-title {
+        padding: 1em 1.5em 1em 0;
+        font-size: 17px;
+    }
+
+    .accordion button {
+        padding-right: 30px;
+    }
+
+    .follow_on_soc_wapper_inner {
+        padding: 30px;
+        border-radius: 30px;
+    }
+
+    .follow_on_soc_wapper_disc {
+        font-size: 16px;
+    }
+
+    .banenr-section-top-highlight h1 {
+        font-size: 1.5rem;
+    }
+
+    .brand_logo {
+        max-width: 40%;
+    }
+
+    .image_icon_inner {
+        padding: 4px 20px;
+    }
+
+    .banner-sec-right-list {
+        margin-top: 20px;
+    }
+
+    .course_card_info_wapper_dis {
+        padding: 5px 5px;
+    }
+
+    .pop-up-main-wapper-right {
+        width: 90%;
+        padding: 20px;
+        text-align: center;
+        border-radius: 20px;
+        box-shadow: inset 1px 1px 7px 0px black;
+    }
+    .pop_up_logo .brand_logo {
+        max-width: 60%;
+        margin: 0 auto;
+    }
+    .pop-up-main-wapper-meta-title h2 {
+        font-size: 20px;
+        line-height: 29px;
+        font-weight: bold;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 424px) {
+
+    .pop-up-main-wapper-right {
+        width: 100%;
+        padding: 20px;
+        text-align: center;
+        border-radius: 20px;
+        box-shadow: inset 1px 1px 7px 0px black;
+    }
+    .enquiry_button_main .gmwqp_inquirybtn_loop a.button.gmwqp_inq {
+        font-size: 15px;
+        padding: 12px 0;
+    }
+    .pop-up-main-wapper-meta-title h2 {
+        font-size: 17px;
+        line-height: 24px;
+        font-weight: bold;
+        text-align: center;
+    }
+    .pop-up-main-wapper-meta #countdown_pop_up ul li { 
+        margin-right: 6px;
+    }
+    .pop-up-main-wapper-meta .gmwqp_inquirybtn_loop {
+        margin-top: 15px;
+    }
+    .pop-up-main-wapper-meta .enquiry_button_main .gmwqp_inquirybtn_loop a.button.gmwqp_inq {
+        font-size: 16px;
+        padding: 10px 0;
+    }
+    .pop-up-main-wapper-meta-description {
+        margin-bottom: 20px;
+        font-size: 13px;
+    }
+    
+    .brand_logo {
+        max-width: 50%;
+    }
+    
+    .section_main_title_wa h3 {
+        font-size: 22px;
+    }
+    .gmwqp_inquirybtn_loop .available_seat_message span {
+        margin-top: 3px;
+        font-size: 12px;
+    }
+    .banner-sec-right-list ul li:before {
+        width: 25px;
+        height: 25px;
+    }
+    .li_day-wrap {
+        padding: 9px 20px;
+    }
+    .price_bundler_wapper_main .li_price {
+        text-align: center;
+    }
+    .about_of_dit_flex {
+      
+        padding: 30px;
+      
+    }
+    .follow_on_soc_wapper_inner::after {
+       
+        border-bottom-right-radius: 30px;
+    }
+    .footer_social_media_main_wapper ul li a {
+        padding: 9px;
+    }
+    .landing_page_video_sec_time_col_inner {
+        padding: 30px 25px;
+        gap: 20px;
+        max-width: 100%;
+        border-radius: 20px;
+    }
+    .course_card_info_wapper_dis h4 {
+        font-size: 12px;
+    }
+    .landing_page_video_sec_time_col_title h4 {
+        font-size: 18px;
+    }
+    .li_text-large {
+        font-size: 15px;
+        line-height: 27px;
+    }
+    .banenr-section-top-highlight h1 {
+        font-size: 1.7rem;
+        line-height: 35px;
+    }
+}
+
+@media only screen and (max-width: 374px) {}
+
+@media (max-width: 768px) {
+    
+    .key-takeaways {
+      flex-direction: column;
+    }
+    .takeaway {
+      flex-basis: 100%;
+      margin: 20px 0;
+      padding: 15px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+   
+    .takeaway {
+      margin: 5px;
+      padding: 5px;
+    }
+  }
+  
